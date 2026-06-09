@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 120778607}
   - component: {fileID: 120778608}
   m_Layer: 0
-  m_Name: Tree_1
+  m_Name: Tree1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 458040436}
   - component: {fileID: 458040437}
   m_Layer: 0
-  m_Name: 2026-06-08_11-05-34_Lumina_1-Photoroom_59
+  m_Name: lo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -798,7 +798,7 @@ GameObject:
   - component: {fileID: 1163763808}
   - component: {fileID: 1163763809}
   m_Layer: 0
-  m_Name: 2026-06-08_11-05-34_Lumina_1-Photoroom_34
+  m_Name: cot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -889,7 +889,7 @@ GameObject:
   - component: {fileID: 1195580187}
   - component: {fileID: 1195580188}
   m_Layer: 0
-  m_Name: Car_1
+  m_Name: Car1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -980,7 +980,7 @@ GameObject:
   - component: {fileID: 1256417694}
   - component: {fileID: 1256417695}
   m_Layer: 0
-  m_Name: 2026-06-08_11-05-34_Lumina_1-Photoroom_64
+  m_Name: maybannuoc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
